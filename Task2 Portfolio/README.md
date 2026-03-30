@@ -4,8 +4,11 @@ This task focuses on building a professional online presence by creating and upd
 
 Profiles Created:
 GitHub
+
 LinkedIn
+
 Stack Overflow
+
 
 Description:
 For this task, I created and updated my professional online profiles to showcase my academic background, technical interests, and digital identity. These platforms help in networking, learning, and building a strong online portfolio.
