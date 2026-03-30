@@ -25,7 +25,7 @@ Subject: Application for Summer Internship
 
 Dear Sir/Madam,
 
-I am Chakinam Harshavardhan, pursuing Integrated M.Tech in CSE (CDS). I am interested in summer internship opportunities at your organization.
+I am Mamulla Pranisha, pursuing Integrated M.Tech in CSE (CDS). I am interested in summer internship opportunities at your organization.
 
 I wish to gain practical experience in areas like Machine Learning, Data Science, and Software Development. I am eager to learn and contribute.
 
